@@ -12,7 +12,7 @@
 - React-native-uuid
 - @ui-kitten/components
 - @eva-design/eva
-- react-native-svg
+- React-native-svg
 - Iconsax-react-native
 - Lottie-react-native
 - Yup
